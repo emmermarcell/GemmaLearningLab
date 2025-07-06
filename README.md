@@ -2,7 +2,7 @@
 
 **GemmaLearningLab** is a proof-of-concept Android app leveraging Google’s Gemma-3n model to tutor Hungarian kids entirely offline. It processes screenshots and voice inputs, creates flashcards and quizzes, and offers interactive learning without internet or subscription requirements. Designed to support education locally with a smart, accessible, and playful learning companion.
 
-The Hungarian education system faces several challenges, including a lack of funding for teachers and equipment. A major issue is that many kids need private tutors because the underfunded school system cannot adequately meet their learning needs or explain information properly. This project aims to create a proof-of-concept (PoC) Android application that leverages the multimodal capabilities of **Gemma-3n** to handle some of the tasks a private tutor would do — running entirely locally on the phone without requiring internet connectivity after the model is downloaded, and without monthly subscription fees since the model hosting happens on the user's device.
+The Hungarian education system faces several challenges, including a lack of funding for teachers and equipment. A major issue is that many kids need private tutors because the underfunded school system cannot adequately meet their learning needs or explain information properly. This project aims to create a proof-of-concept (PoC) Android application that leverages the multimodal capabilities of **Gemma-3n** to handle some of the tasks a private tutor would do, running entirely locally on the phone without requiring internet connectivity after the model is downloaded, and without monthly subscription fees since the model hosting happens on the user's device.
 
 ---
 
