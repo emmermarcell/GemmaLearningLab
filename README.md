@@ -63,7 +63,9 @@ This project is part of the [Google Gemma-3n Hackathon](https://www.kaggle.com/c
 - **[ELTE Novel Corpus](https://github.com/ELTE-DH/regenykorpusz)**  
   Contains 400 Hungarian novels.  
 - **[ELTE Drama Corpus](https://github.com/ELTE-DH/drama-corpus)**  
-  Contains 74 Hungarian dramas.  
+  Contains 74 Hungarian dramas.
+- [leinadsened/hungarian-poems-with-instructions](https://huggingface.co/datasets/leinadsened/hungarian-poems-with-instructions)
+  Instruction-based poem generation dataset in Hungarian.
 - [SZTAKI-HLT/HunSum-2-abstractive](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-2-abstractive)  
   Over 1.8M unique Hungarian news articles from 27 major Hungarian news websites.  
 - [Hungarian Webcorpus 2.0](https://hlt.bme.hu/en/resources/webcorpus2)  
