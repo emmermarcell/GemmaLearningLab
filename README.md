@@ -1,8 +1,10 @@
 # GemmaLearningLab
 
-**GemmaLearningLab** is a proof-of-concept Android app leveraging Google’s Gemma-3n model to tutor Hungarian kids entirely offline. It processes screenshots and voice inputs, creates flashcards and quizzes, and offers interactive learning without internet or subscription requirements. Designed to support education locally with a smart, accessible, and playful learning companion.
+**GemmaLearningLab** is a proof-of-concept Android app that leverages Google’s Gemma-3n model to provide offline tutoring for Hungarian kids. It processes screenshots and voice inputs, generates flashcards and quizzes, and delivers interactive learning—all without requiring internet access or subscriptions. Designed as a smart, accessible, and playful learning companion, it aims to support local education effectively.
 
-The Hungarian education system faces several challenges, including a lack of funding for teachers and equipment. A major issue is that many kids need private tutors because the underfunded school system cannot adequately meet their learning needs or explain information properly. This project aims to create a proof-of-concept (PoC) Android application that leverages the multimodal capabilities of **Gemma-3n** to handle some of the tasks a private tutor would do, running entirely locally on the phone without requiring internet connectivity after the model is downloaded, and without monthly subscription fees since the model hosting happens on the user's device.
+Hungary’s education system faces significant challenges, including insufficient funding for teachers and resources. Many students rely on private tutors because the formal system often cannot fully address their learning needs. This project tackles these issues by harnessing Gemma-3n’s multimodal capabilities to replicate key functions of a private tutor, running entirely on-device after an initial model download—eliminating the need for continuous internet connectivity or subscription fees.
+
+Part of the Google Gemma-3n Hackathon, this project showcases innovative applications of Gemma-3n to empower learners and help bridge educational gaps in Hungary through accessible, offline AI technology.
 
 ---
 
