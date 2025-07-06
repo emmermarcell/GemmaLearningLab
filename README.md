@@ -11,7 +11,6 @@ Part of the [Google Gemma-3n Hackathon](https://www.kaggle.com/competitions/goog
 ## Main Features
 
 - Take screenshots of pages from current notes or book chapters → Gemma-3n processes these images.
-- (Optional future) Upload a PDF → automatically split into chapters.
 - Chat interface for discussion, powered by a retrieval-augmented generation (RAG) agent built from uploaded pages.
 - Voice interaction about the content using Gemma-3n’s audio input capabilities (potentially finetuned for Hungarian). Output text can be converted to speech via TTS (great for kids with reading difficulties).
 - Flashcard creation from uploaded pages to practice definitions.
@@ -22,7 +21,6 @@ Part of the [Google Gemma-3n Hackathon](https://www.kaggle.com/competitions/goog
 ## Tasks
 
 - Build main features on Kaggle.
-- Learn Kotlin basics.
 - Develop the Android app in Kotlin using Google’s example project: [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery).
 - Deploy the latest Gemma-3n E2B model that supports audio input.
 - Finetune Gemma-3n for Hungarian text and audio using [Unsloth](https://docs.unsloth.ai/basics/gemma-3n-how-to-run-and-fine-tune). Await the release of official Gemma-3n notebooks for easier tuning.
